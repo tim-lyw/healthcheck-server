@@ -22,8 +22,8 @@ A Node.js/Express API server for managing health declarations using MongoDB.
 
 ## API Endpoints
 
-POST (`/api/declarations`) - Create a new health declaration 
-GET (`/api/declarations`) - Get paginated health declarations 
+- POST (`/api/declarations`) - Create a new health declaration 
+- GET (`/api/declarations`) - Get paginated health declarations 
 
 ## Getting Started
 
