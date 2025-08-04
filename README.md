@@ -1,4 +1,4 @@
-# Health Check Server
+# HealthCheck Server
 
 A Node.js/Express API server for managing health declarations using MongoDB.
 
