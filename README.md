@@ -16,7 +16,7 @@ A Node.js/Express API server for managing health declarations using MongoDB.
 
 - **Backend**: Node.js, Express.js, TypeScript
 - **Database**: MongoDB with Mongoose ODM
-- **Testing**: Jest w& Supertest
+- **Testing**: Jest & Supertest
 - **Validation**: Custom input validation
 - **CORS**: Configurable whitelist
 
