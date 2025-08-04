@@ -20,6 +20,13 @@ A Node.js/Express API server for managing health declarations using MongoDB.
 - **Validation**: Custom input validation
 - **CORS**: Configurable whitelist
 
+  
+## Frontend
+
+The client app is built with Vite and hosted on Railway.
+
+**[Frontend Repository](https://github.com/tim-lyw/healthcheck-client)**
+
 ## API Endpoints
 
 - POST (`/api/declarations`) - Create a new health declaration 
