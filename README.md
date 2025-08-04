@@ -148,3 +148,6 @@ src/
 │   └── declarations.test.ts      # API tests
 └── index.ts              # Express app setup
 ```
+
+
+Built by Timothy Loh
